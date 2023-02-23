@@ -1,5 +1,5 @@
-#ESantos 🎧|MIDI|
-## Descrição do projeto
+##ESantos 🎧|MIDI|
+# Descrição do projeto
 
 Este projeto foi desenvolvido como parte do curso de **JavaScript para WEB** da Alura. Ele inclui exemplos de uso de:
 
