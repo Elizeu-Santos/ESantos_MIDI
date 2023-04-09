@@ -1,5 +1,8 @@
 ESantos 🎧|MIDI|
-# Descrição do projeto
+# JavaScript para Web: Crie páginas dinâmicas - ALURA
+<p align="center">
+    <img src="images/Midi.png" alt="logo">
+ </p>
 
 Este projeto foi desenvolvido como parte do curso de **JavaScript para WEB** da Alura. Ele inclui exemplos de uso de:
 
